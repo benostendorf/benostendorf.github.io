@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anne Flörcken | Benjamin Ostendorf</title>
+    <link>/authors/anne-florcken/</link>
+      <atom:link href="/authors/anne-florcken/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anne Flörcken</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© B. Ostendorf 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Anne Flörcken</title>
+      <link>/authors/anne-florcken/</link>
+    </image>
+    
+    <item>
+      <title>Phenotypic characterization of aberrant stem and progenitor cell populations in myelodysplastic syndromes</title>
+      <link>/publication/ostendorf-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ostendorf-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Myeloid-derived suppressor cells in human peripheral blood: Optimized quantification in healthy donors and patients with metastatic renal cell carcinoma</title>
+      <link>/publication/florcken-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/florcken-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

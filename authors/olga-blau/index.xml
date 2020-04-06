@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Olga Blau | Benjamin Ostendorf</title>
+    <link>/authors/olga-blau/</link>
+      <atom:link href="/authors/olga-blau/index.xml" rel="self" type="application/rss+xml" />
+    <description>Olga Blau</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© B. Ostendorf 2020</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Olga Blau</title>
+      <link>/authors/olga-blau/</link>
+    </image>
+    
+    <item>
+      <title>Association between low uric acid levels and acute graft-versus-host disease.</title>
+      <link>/publication/ostendorf-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ostendorf-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

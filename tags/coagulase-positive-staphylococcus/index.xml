@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>coagulase-positive staphylococcus | Benjamin Ostendorf</title>
+    <link>/tags/coagulase-positive-staphylococcus/</link>
+      <atom:link href="/tags/coagulase-positive-staphylococcus/index.xml" rel="self" type="application/rss+xml" />
+    <description>coagulase-positive staphylococcus</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© B. Ostendorf 2020</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>coagulase-positive staphylococcus</title>
+      <link>/tags/coagulase-positive-staphylococcus/</link>
+    </image>
+    
+    <item>
+      <title>Human Staphylococcus intermedius Infection in a Patient With Postradiation Changes</title>
+      <link>/publication/ostendorf-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/ostendorf-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

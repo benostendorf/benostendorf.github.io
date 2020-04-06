@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Szarek | Benjamin Ostendorf</title>
+    <link>/authors/michael-szarek/</link>
+      <atom:link href="/authors/michael-szarek/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Szarek</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© B. Ostendorf 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Michael Szarek</title>
+      <link>/authors/michael-szarek/</link>
+    </image>
+    
+    <item>
+      <title>LXR/ApoE Activation Restricts Innate Immune Suppression in Cancer</title>
+      <link>/publication/tavazoie-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/tavazoie-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

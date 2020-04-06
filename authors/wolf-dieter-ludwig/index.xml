@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wolf-Dieter Ludwig | Benjamin Ostendorf</title>
+    <link>/authors/wolf-dieter-ludwig/</link>
+      <atom:link href="/authors/wolf-dieter-ludwig/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wolf-Dieter Ludwig</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© B. Ostendorf 2020</copyright><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Wolf-Dieter Ludwig</title>
+      <link>/authors/wolf-dieter-ludwig/</link>
+    </image>
+    
+    <item>
+      <title>[Flow-cytometric immunophenotyping in clinical diagnostics]</title>
+      <link>/publication/ostendorf-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ostendorf-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

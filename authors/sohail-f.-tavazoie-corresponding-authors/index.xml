@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sohail F. Tavazoie† (†corresponding authors) | Benjamin Ostendorf</title>
+    <link>/authors/sohail-f.-tavazoie-corresponding-authors/</link>
+      <atom:link href="/authors/sohail-f.-tavazoie-corresponding-authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sohail F. Tavazoie† (†corresponding authors)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© B. Ostendorf 2020</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Sohail F. Tavazoie† (†corresponding authors)</title>
+      <link>/authors/sohail-f.-tavazoie-corresponding-authors/</link>
+    </image>
+    
+    <item>
+      <title>Autophagy Suppresses Breast Cancer Metastasis</title>
+      <link>/publication/ostendorf-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ostendorf-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simon Ruffing | Benjamin Ostendorf</title>
+    <link>/authors/simon-ruffing/</link>
+      <atom:link href="/authors/simon-ruffing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Simon Ruffing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© B. Ostendorf 2020</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Simon Ruffing</title>
+      <link>/authors/simon-ruffing/</link>
+    </image>
+    
+    <item>
+      <title>Tumoural induction of Slit2 axon-guidance signal in the endothelium drives metastasis</title>
+      <link>/publication/tavora-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/tavora-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

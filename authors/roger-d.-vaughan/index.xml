@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roger D. Vaughan | Benjamin Ostendorf</title>
+    <link>/authors/roger-d.-vaughan/</link>
+      <atom:link href="/authors/roger-d.-vaughan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Roger D. Vaughan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© B. Ostendorf 2020</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Roger D. Vaughan</title>
+      <link>/authors/roger-d.-vaughan/</link>
+    </image>
+    
+    <item>
+      <title>Common germline variants of the human APOE gene modulate melanoma progression and outcome</title>
+      <link>/publication/ostendorf-2020-a/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ostendorf-2020-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hendrik Nogai | Benjamin Ostendorf</title>
+    <link>/authors/hendrik-nogai/</link>
+      <atom:link href="/authors/hendrik-nogai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hendrik Nogai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© B. Ostendorf 2020</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Hendrik Nogai</title>
+      <link>/authors/hendrik-nogai/</link>
+    </image>
+    
+    <item>
+      <title>BCR-ABL Mutation-Guided Therapy for CML Blast Crisis: A Case Report</title>
+      <link>/publication/ostendorf-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ostendorf-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synchronous tuberculosis, Epstein-Barr virus-associated lymphoproliferative disorder and cytomegalovirus infection in an allogeneic transplant recipient: a case report</title>
+      <link>/publication/ostendorf-2014-b/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/ostendorf-2014-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
