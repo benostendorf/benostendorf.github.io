@@ -5,7 +5,7 @@
     <link>/authors/olaf-penack/</link>
       <atom:link href="/authors/olaf-penack/index.xml" rel="self" type="application/rss+xml" />
     <description>Olaf Penack</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© B. Ostendorf 2020</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 B. Ostendorf</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Olaf Penack</title>
@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Association between low uric acid levels and acute graft-versus-host disease.</title>
+      <title>Association between low uric acid levels and acute graft-versus-host disease</title>
       <link>/publication/ostendorf-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>/publication/ostendorf-2015/</guid>

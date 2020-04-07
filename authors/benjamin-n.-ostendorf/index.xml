@@ -5,7 +5,7 @@
     <link>/authors/benjamin-n.-ostendorf/</link>
       <atom:link href="/authors/benjamin-n.-ostendorf/index.xml" rel="self" type="application/rss+xml" />
     <description>**Benjamin N. Ostendorf**</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© B. Ostendorf 2020</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 B. Ostendorf</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>**Benjamin N. Ostendorf**</title>
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Tumoural induction of Slit2 axon-guidance signal in the endothelium drives metastasis</title>
+      <title>Tumoural induction of a Slit2 axon-guidance signal in the endothelium drives metastasis</title>
       <link>/publication/tavora-2020/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/publication/tavora-2020/</guid>
@@ -69,7 +69,7 @@
     </item>
     
     <item>
-      <title>Association between low uric acid levels and acute graft-versus-host disease.</title>
+      <title>Association between low uric acid levels and acute graft-versus-host disease</title>
       <link>/publication/ostendorf-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>/publication/ostendorf-2015/</guid>
@@ -109,7 +109,23 @@
     </item>
     
     <item>
-      <title>A novel domain regulating degradation of the glomerular slit diaphragm protein podocin in cell culture systems.</title>
+      <title>[A novel motif regulating internalization and degradation of the glomular slit diaphgram protein podocin]</title>
+      <link>/publication/ostendorf-2013-a/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/ostendorf-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Hematological Neoplasias]</title>
+      <link>/publication/ostendorf-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/ostendorf-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel domain regulating degradation of the glomerular slit diaphragm protein podocin in cell culture systems</title>
       <link>/publication/godel-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>/publication/godel-2013/</guid>
